@@ -12,7 +12,7 @@ body {
         0deg,
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
-    ),url("../media/estadium4.jpg");
+    ),url("../media/estadium4.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -20,7 +20,7 @@ body {
 
 .quiniela{
     margin: 20px auto;
-    background-image: url("../11/11122023.jpeg");
+    background-image: url("../11/finalmx.jpeg");
     background-size: 100%;
     background-repeat: no-repeat;
     box-shadow: 5px 10px 20px 5px black;
