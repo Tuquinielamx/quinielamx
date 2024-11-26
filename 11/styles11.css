@@ -10,7 +10,7 @@ body {
     margin: auto;
     background-image: linear-gradient(0deg,
             rgba(0, 0, 0, 0.5),
-            rgba(0, 0, 0, 0.5)), url("../media/4TOSIDA.jpg");
+            rgba(0, 0, 0, 0.5)), url("../media/TRICOLOR.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -18,7 +18,7 @@ body {
 
 .quiniela {
     margin: 20px auto;
-    background-image: url("../11/F_EXP_EU.jpeg");
+    background-image: url("../11/4TOSIDA.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     box-shadow: 5px 10px 20px 5px black;
